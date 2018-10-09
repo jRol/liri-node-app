@@ -2,7 +2,7 @@
 
 Problem: Create a command line node app that takes in parameters and gives you back data.
 
-Requirements: This is a node.js app, and you will need to run this on the command line. You will also need to create your own .env file in the following format,
+Requirements: This is a node.js app, and you will need to run this on the command line. You will need to run `npm install` to get the node_modules folder, and you will also need to create your own .env file in the following format,
 ```
 # Spotify API keys
 
