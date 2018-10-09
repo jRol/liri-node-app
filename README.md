@@ -30,4 +30,4 @@ Examples:
 
 [Link to Project README.md file on GitHub Pages: https://jrol.github.io/liri-node-app/](https://jrol.github.io/liri-node-app/)
 
-[Link to Updated Porfolio: https://jrol.github.io/Updated-Portfolio-Page-1/](https://jrol.github.io/Updated-Portfolio-Page-1/)
+[Link to Updated Portfolio: https://jrol.github.io/Updated-Portfolio-Page-1/](https://jrol.github.io/Updated-Portfolio-Page-1/)
