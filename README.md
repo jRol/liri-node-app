@@ -26,6 +26,8 @@ Examples:
 * Without Name specified: `node liri.js spotify-this-song`
 * With Name specified: `node liri.js movie-this "The Matrix"`
 
-Link to Deployed Project: https://jrol.github.io/liri-node-app/
+[Link to GitHub Repository for LIRI Bot Project: https://github.com/jRol/liri-node-app](https://github.com/jRol/liri-node-app)
 
-Link to Updated Porfolio: https://jrol.github.io/Updated-Portfolio-Page-1/
+[Link to Project README.md file on GitHub Pages: https://jrol.github.io/liri-node-app/](https://jrol.github.io/liri-node-app/)
+
+[Link to Updated Porfolio: https://jrol.github.io/Updated-Portfolio-Page-1/](https://jrol.github.io/Updated-Portfolio-Page-1/)
