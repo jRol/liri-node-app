@@ -17,6 +17,6 @@ TWITTER_ACCESS_TOKEN_KEY=your-access-token-key
 TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 ```
 
-Link to Deployed Project: 
+Link to Deployed Project: https://jrol.github.io/liri-node-app/
 
 Link to Updated Porfolio: https://jrol.github.io/Updated-Portfolio-Page-1/
