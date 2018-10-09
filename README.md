@@ -16,6 +16,14 @@ TWITTER_CONSUMER_SECRET=your-twitter-consumer-secret
 TWITTER_ACCESS_TOKEN_KEY=your-access-token-key
 TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 ```
+NOTE: There are four different commands you can run with this app:
+1. my-tweets
+2. spotify-this-song
+3. movie-this
+4. do-what-it-says
+
+Example without Name specified: `node liri.js spotify-this-song`
+Example with Name specified: `node liri.js movie-this "The Matrix"`
 
 Link to Deployed Project: https://jrol.github.io/liri-node-app/
 
