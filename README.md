@@ -22,8 +22,9 @@ NOTE: There are four different commands you can run with this app:
 3. movie-this
 4. do-what-it-says
 
-Example without Name specified: `node liri.js spotify-this-song`
-Example with Name specified: `node liri.js movie-this "The Matrix"`
+Examples:
+* Without Name specified: `node liri.js spotify-this-song`
+* With Name specified: `node liri.js movie-this "The Matrix"`
 
 Link to Deployed Project: https://jrol.github.io/liri-node-app/
 
